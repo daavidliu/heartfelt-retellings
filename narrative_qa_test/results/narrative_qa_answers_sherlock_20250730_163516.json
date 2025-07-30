@@ -1,0 +1,460 @@
+[
+    {
+        "answer": "Watson believed Holmes was in a deplorable state and his mind was in ruins.",
+        "evidence": [
+            "BW_watson(holmes_deplorable_spectacle, 4)",
+            "BW_watson(disorganization_holmes_mind, 4)",
+            "BW_watson(ruins_noble_mind_deplorable, 4)"
+        ],
+        "question": "What did Watson believe was wrong with Holmes?",
+        "answer1": "Holmes was sick and dying",
+        "answer2": "That he was dying from an infectious disease contracted while on a case",
+        "correct": "yes"
+    },
+    {
+        "answer": "Smith sent an ivory box with a sharp spring inside, which drew blood, to try and infect Holmes.",
+        "evidence": [
+            "TW(small_black_and_white_ivory_box_sliding_lid_amidst_debris, 4)",
+            "BW_holmes(sharp_spring_inside_it, 4)",
+            "BW_holmes(the_spring, 4)",
+            "BW_holmes(drew_blood, 4)",
+            "BW_smith(sent_holmes_share_it, 4)"
+        ],
+        "question": "What did Smith send to Holmes to try and infect him?",
+        "answer1": "a box",
+        "answer2": "A little ivory box",
+        "correct": "yes"
+    },
+    {
+        "answer": "The signal for Inspector Morton to enter the room was Mr. Culverton Smith turning up the gas.",
+        "evidence": [
+            "BW_holmes(mr_culverton_smith_good_enough_give_signal, 4)",
+            "BW_holmes(signal_turning_up_gas, 4)",
+            "BW_smith(turn_up_gas, 4)",
+            "TW(inspector_morton_appeared, 4)"
+        ],
+        "question": "What was the signal for Inspector Morton to enter the room?",
+        "answer1": "The lamp turned to full gas",
+        "answer2": "The gaslight being turned all the way up.",
+        "correct": "yes"
+    },
+    {
+        "answer": "Holmes felt that Watson's fidgeting was beyond endurance and that he was too much of a doctor to be helpful.",
+        "evidence": [
+            "BW_holmes(fidget_watson_beyond_endurance, 4)",
+            "BW_holmes(watson_doctor_enough_drive_patient_asylum, 4)"
+        ],
+        "question": "How did Holmes feel when Watson touched the items in his room?",
+        "answer1": "He was angry",
+        "answer2": "He got mad.",
+        "correct": "no"
+    },
+    {
+        "answer": "The provided predicates do not contain any information about Mr. Smith killing anyone.",
+        "evidence": [],
+        "question": "Who did Mr. Smith kill before?",
+        "answer1": "his nephew",
+        "answer2": "His nephew",
+        "correct": "no"
+    },
+    {
+        "answer": "Inspector Morton is a police officer who appears at the end of the narrative to arrest Mr. Culverton Smith for the murder of Victor Savage and the attempted murder of Sherlock Holmes.",
+        "evidence": [
+            "TW(inspector_morton_appeared, 4)",
+            "BW_inspector_morton(arrest_charge_murder_victor_savage, 4)",
+            "BW_holmes(add_attempted_murder_sherlock_holmes, 4)"
+        ],
+        "question": "Who is Morton?",
+        "answer1": "He is an inspector",
+        "answer2": "He is a police inspector called in to arrest Smith",
+        "correct": "yes"
+    },
+    {
+        "answer": "This question cannot be answered from the given source.",
+        "evidence": [],
+        "question": "Why did Watson hide behind a screen?",
+        "answer1": "To be a witness to Smith's crimes",
+        "answer2": "To listen to Smith's and Holmes conversation",
+        "correct": "no"
+    },
+    {
+        "answer": "The provided predicates do not contain information about Watson starving himself. The predicates describe Sherlock Holmes's feigned illness and his interactions with Watson and others.",
+        "evidence": [],
+        "question": "How long did Watson starve himself so that he would look sick?",
+        "answer1": "three days",
+        "answer2": "Watson doesn't starve himself, Holmes does",
+        "correct": "yes"
+    },
+    {
+        "answer": "Dr. Watson was summoned to attend to Holmes because Mrs. Hudson believed Holmes was dying.",
+        "evidence": [
+            "BW_mrs_hudson(holmes_dying, 1)"
+        ],
+        "question": "Why was Dr. Watson called to attend to Holmes?",
+        "answer1": "Holmes is apparently ill with an infectious disease, not having eaten or drank anything in three days.",
+        "answer2": "Because Holmes is apparently dying",
+        "correct": "yes"
+    },
+    {
+        "answer": "Holmes first instructs Dr. Watson to procure Mr. Culverton Smith, who is known to be an expert on the disease.",
+        "evidence": [
+            "BW_holmes(go_fetch_mr_culverton_smith, 4)"
+        ],
+        "question": "What does Holmes first instruct Dr. Watson to do in fighting this illness?",
+        "answer1": "He instructs him to wait several hours before he seeks help.",
+        "answer2": "not to come near him",
+        "correct": "no"
+    },
+    {
+        "answer": "This question cannot be answered from the given source.",
+        "evidence": [],
+        "question": "What does Dr. Watson do that aggravates Holmes?",
+        "answer1": "He walks around the room touching items there.",
+        "answer2": "touches his belongings",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes asks Watson to wait until six o'clock before he can leave.",
+        "evidence": [
+            "BW_holmes(at_six_watson_can_go, 4)",
+            "BW_holmes(promise_watson_go_at_six, 4)",
+            "BW_holmes(ask_watson_content_wait, 4)"
+        ],
+        "question": "What does Holmes ask Dr. Watson to do at 6 p.m.?",
+        "answer1": "To turn the gaslight to half on and then seek out Mr. Culverton Smith to come see Mr. Holmes.",
+        "answer2": "Turn the gas-light to half way",
+        "correct": "no"
+    },
+    {
+        "answer": "The provided predicates do not contain information about Dr. Watson's arrival at 13 Lower Burke Street, so it is not possible to determine what happens.",
+        "evidence": [],
+        "question": "What happens when Dr. Watson gets to 13 Lower Burke Street?",
+        "answer1": "Mr. Smith refuses to see him, so Dr. Watson forces his way in.",
+        "answer2": "He was to bring Culverton Smith to see Holmes",
+        "correct": "no"
+    },
+    {
+        "answer": "Dr. Watson overhears nothing unusual upon arriving at Holmes' residence.",
+        "evidence": [
+            "BW_watson(horrified_heard_nothing_illness, 3)"
+        ],
+        "question": "What does Dr. Watson overhear back at Holmes residence?",
+        "answer1": "That Holmes is suffering from the same ailment that inflicted Mr. Smith's nephew Justin.",
+        "answer2": "Culverton Smith confess to murdering his nephew Victor.",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes contracted the illness from a small black and white ivory box, which contained a sharp spring that drew blood, during his research into the medico-criminal aspects of diseases in the East.",
+        "evidence": [
+            "BW_holmes(contracted_complaint_during_researches, 4)",
+            "TW(small_black_and_white_ivory_box_sliding_lid_amidst_debris, 4)",
+            "BW_holmes(the_spring, 4)",
+            "BW_holmes(drew_blood, 4)"
+        ],
+        "question": "How did Holmes possibly contract this illness?",
+        "answer1": "Via a small ivory box lined with a sharp spring that Mr. Smith mailed to Holmes.",
+        "answer2": "on a case",
+        "correct": "yes"
+    },
+    {
+        "answer": "The provided predicates do not contain information about Holmes's intentions regarding Mr. Smith lighting the gaslight to full. Therefore, this question cannot be answered.",
+        "evidence": [],
+        "question": "What was the intention of Holmes in having Mr. Smith lighting the gaslight to full?",
+        "answer1": "To signal Inspector Morton to move in to apprehend Mr. Smith.",
+        "answer2": "To signal inspector Morton",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes requests that Mr. Culverton Smith be fetched, believing that he is the only one who can help him and that he possesses unique experience with the disease Holmes is suffering from.",
+        "evidence": [
+            "BW_holmes(eager_consult_person_named, 4)",
+            "BW_holmes(obstinate_refusing, 4)",
+            "OW_holmes(persuade_mr_culverton_smith_come_here, 4)",
+            "OW_holmes(persuade_mr_culverton_smith_give_benefit_unique_experience, 4)",
+            "BW_holmes(investigation_disease_dearest_hobby_mr_culverton_smith, 4)",
+            "BW_holmes(cannot_doubt_mr_culverton_smith_help, 4)"
+        ],
+        "question": "What else does Holmes request from Mr. Smith?",
+        "answer1": "A match and a cigarette.",
+        "answer2": "A match and a cigarette.",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes kept hidden the fact that he was not actually ill but was faking his condition to lure Culverton Smith into a confession.",
+        "evidence": [
+            "BW_holmes(watson_help_best_doing_told, 4)",
+            "BW_holmes(holmes_knows_matter, 4)",
+            "BW_holmes(holmes_coolie_disease_sumatra, 4)",
+            "BW_holmes(dutch_know_more_about_disease, 4)",
+            "BW_holmes(dutch_made_little_of_it_date, 4)",
+            "BW_holmes(disease_infallibly_deadly, 4)",
+            "BW_holmes(disease_horribly_contagious, 4)",
+            "BW_holmes(contagious_by_touch_watson, 4)",
+            "BW_holmes(keep_distance_all_well, 4)",
+            "BW_holmes(watson_wont_take_key_force, 4)",
+            "BW_holmes(holmes_got_watson, 4)",
+            "BW_holmes(watson_will_stay_until_holmes_will_otherwise, 4)",
+            "BW_holmes(will_humour_watson, 4)",
+            "BW_holmes(watson_only_good_heart, 4)",
+            "BW_holmes(know_very_well, 4)",
+            "BW_holmes(watson_shall_have_way, 4)",
+            "BW_holmes(give_holmes_time_get_strength, 4)",
+            "BW_holmes(not_now_watson, 4)",
+            "BW_holmes(it_four_o_clock, 4)",
+            "BW_holmes(at_six_watson_can_go, 4)",
+            "BW_holmes(only_two_hours_watson, 4)",
+            "BW_holmes(promise_watson_go_at_six, 4)",
+            "BW_holmes(ask_watson_content_wait, 4)",
+            "BW_holmes(none_in_world_watson, 4)",
+            "BW_holmes(thank_you, 4)",
+            "BW_holmes(need_no_help_arranging_clothes, 4)",
+            "BW_holmes(watson_please_keep_distance, 4)",
+            "BW_holmes(ask_watson_condition_make, 4)",
+            "BW_holmes(watson_seek_help_not_man_mention, 4)",
+            "BW_holmes(watson_seek_help_one_holmes_chooses, 4)",
+            "BW_holmes(first_three_sensible_words_watson_uttered, 4)",
+            "BW_holmes(watson_find_books_over_there, 4)",
+            "BW_holmes(holmes_exhausted, 4)",
+            "BW_holmes(wonder_battery_feels_pouring_electricity_non_conductor, 4)",
+            "BW_holmes(at_six_watson_resume_conversation, 4)",
+            "BW_holmes(appearance_changed_worse, 4)",
+            "BW_holmes(hectic_spots_pronounced, 4)",
+            "BW_holmes(eyes_shone_brighter_darker_hollows, 4)",
+            "BW_holmes(cold_sweat_glimmered_brow, 4)",
+            "BW_holmes(retained_jaunty_gallantry_speech, 4)",
+            "BW_holmes(master_last_gasp, 4)",
+            "BW_holmes(tell_mr_culverton_smith_exactly_left_holmes, 4)",
+            "BW_holmes(convey_impression_watson_own_mind, 4)",
+            "BW_holmes(impression_dying_man, 4)",
+            "BW_holmes(impression_dying_delirious_man, 4)",
+            "BW_holmes(cannot_think_why_ocean_solid_mass_oysters, 4)",
+            "BW_holmes(oysters_prolific_creatures, 4)",
+            "BW_holmes(wandering, 4)",
+            "BW_holmes(brain_controls_brain, 4)",
+            "BW_holmes(ask_watson_what_was_saying, 4)",
+            "BW_holmes(holmes_life_depends_upon_it, 4)",
+            "BW_holmes(no_good_feeling_between_holmes_smith, 4)",
+            "BW_holmes(holmes_nephew_victor_savage, 4)",
+            "BW_holmes(holmes_suspicions_foul_play, 4)",
+            "BW_holmes(allowed_victor_savage_see_suspicions, 4)",
+            "BW_holmes(victor_savage_died_horribly, 4)",
+            "BW_holmes(victor_savage_strong_hearty_young_fellow, 4)",
+            "BW_holmes(victor_savage_contracted_out_way_asiatic_disease_london, 4)",
+            "BW_holmes(smith_made_special_study_disease, 4)",
+            "BW_holmes(singular_coincidence, 4)",
+            "BW_holmes(smart_holmes_notice_it, 4)",
+            "BW_holmes(uncharitable_suggest_cause_effect, 4)",
+            "BW_holmes(know_smith_did_it, 4)",
+            "BW_holmes(could_not_prove_it_anyhow, 4)",
+            "BW_holmes(ask_what_holmes_thinks_spreading_reports_about_smith, 4)",
+            "BW_holmes(ask_crawling_to_smith_help_moment_in_trouble, 4)",
+            "BW_holmes(ask_what_sort_game, 4)",
+            "BW_holmes(precious_near_end, 4)",
+            "BW_holmes(not_want_holmes_go_until_word_had, 4)",
+            "BW_holmes(give_water, 4)",
+            "BW_holmes(don't_slop_about, 4)",
+            "BW_holmes(understand_what_saying, 4)",
+            "BW_holmes(forget_what, 4)",
+            "BW_holmes(about_victor_savage_death, 4)",
+            "BW_holmes(good_as_admitted_done_it, 4)",
+            "BW_holmes(forget_it, 4)",
+            "BW_holmes(yes_yes, 4)",
+            "BW_holmes(could_only_account_for_it_so, 4)",
+            "BW_holmes(proud_brains_holmes, 4)",
+            "BW_holmes(think_yourself_smart, 4)",
+            "BW_holmes(came_across_someone_smarter, 4)",
+            "BW_holmes(ask_cast_mind_back, 4)",
+            "BW_holmes(ask_think_no_other_way_got_thing, 4)",
+            "BW_holmes(cant_think, 4)",
+            "BW_holmes(mind_gone, 4)",
+            "BW_holmes(yes_yes, 4)",
+            "BW_holmes(opened_it, 4)",
+            "BW_holmes(sharp_spring_inside_it, 4)",
+            "BW_holmes(some_joke, 4)",
+            "BW_holmes(remember, 4)",
+            "BW_holmes(the_spring, 4)",
+            "BW_holmes(drew_blood, 4)",
+            "BW_holmes(this_box_on_table, 4)",
+            "BW_holmes(voice_sunk_inaudible_whisper, 4)",
+            "BW_holmes(match_cigarette, 4)",
+            "BW_holmes(speaking_natural_voice, 4)",
+            "BW_holmes(voice_little_weak, 4)",
+            "BW_holmes(very_voice_knew, 4)",
+            "BW_holmes(best_way_successfully_acting_part_is_be_it, 4)",
+            "BW_holmes(give_word_three_days_tasted_neither_food_nor_drink, 4)",
+            "BW_holmes(until_smith_poured_glass_water, 4)",
+            "BW_holmes(tobacco_most_irksome, 4)",
+            "BW_holmes(here_are_cigarettes, 4)",
+            "BW_holmes(that_is_very_much_better, 4)",
+            "BW_holmes(halloa_halloa, 4)",
+            "BW_holmes(hear_step_friend, 4)",
+            "BW_holmes(all_is_in_order, 4)",
+            "BW_holmes(this_is_your_man, 4)",
+            "BW_holmes(add_attempted_murder_sherlock_holmes, 4)",
+            "BW_holmes(save_invalid_trouble_inspector, 4)",
+            "BW_holmes(mr_culverton_smith_good_enough_give_signal, 4)",
+            "BW_holmes(signal_turning_up_gas, 4)",
+            "BW_holmes(prisoner_small_box_right_hand_pocket_coat, 4)",
+            "BW_holmes(as_well_remove, 4)",
+            "BW_holmes(handle_gingerly, 4)",
+            "BW_holmes(it_may_play_part_trial, 4)",
+            "BW_holmes(good_heavens, 4)",
+            "BW_holmes(totally_forgotten_him, 4)",
+            "BW_holmes(owe_watson_thousand_apologies, 4)",
+            "BW_holmes(overlooked_watson, 4)",
+            "BW_holmes(introduce_mr_culverton_smith, 4)",
+            "BW_holmes(understand_met_earlier, 4)",
+            "BW_holmes(have_cab_below, 4)",
+            "BW_holmes(may_be_of_use_station, 4)",
+            "BW_holmes(never_needed_more, 4)",
+            "BW_holmes(habits_irregular, 4)",
+            "BW_holmes(feat_means_less_most_men, 4)",
+            "BW_holmes(watson_won't_be_offended, 4)",
+            "BW_holmes(vital_point_whole_scheme, 4)",
+            "BW_holmes(knowing_vindictive_nature_smith, 4)",
+            "BW_holmes(certain_smith_come_look_upon_handiwork, 4)",
+            "BW_holmes(three_days_absolute_fast_does_not_improve_beauty, 4)",
+            "BW_holmes(nothing_sponge_may_not_cure, 4)",
+            "BW_holmes(vaseline_forehead, 4)",
+            "BW_holmes(belladonna_eyes, 4)",
+            "BW_holmes(rouge_cheek_bones, 4)",
+            "BW_holmes(crusts_beeswax_lips, 4)",
+            "BW_holmes(satisfying_effect_produced, 4)",
+            "BW_holmes(malingering_subject_write_monograph, 4)",
+            "BW_holmes(occasional_talk_half_crowns_oysters_extraneous_subject, 4)",
+            "BW_holmes(pleasing_effect_delirium, 4)",
+            "BW_holmes(ask_watson_respect_medical_talents, 4)",
+            "BW_holmes(fancy_astute_judgment_pass_dying_man, 4)",
+            "BW_holmes(dying_man_no_rise_pulse_temperature, 4)",
+            "BW_holmes(at_four_yards_could_deceive_watson, 4)",
+            "BW_holmes(if_failed_who_bring_smith_within_grasp, 4)",
+            "BW_holmes(would_not_touch_box, 4)",
+            "BW_holmes(can_see_look_sideways, 4)",
+            "BW_holmes(sharp_spring_viper_tooth_emerges, 4)",
+            "BW_holmes(by_such_device_poor_savage_done_death, 4)",
+            "BW_holmes(savage_stood_between_monster_reversion, 4)",
+            "BW_holmes(correspondence_varied, 4)",
+            "BW_holmes(somewhat_guard_against_packages, 4)",
+            "BW_holmes(pretending_succeeded_design_might_surprise_confession, 4)",
+            "BW_holmes(pretence_carried_out_thoroughness_true_artist, 4)",
+            "BW_holmes(something_nutritious_simpson_would_not_be_out_place, 4)"
+        ],
+        "question": "What is the secret Holmes kept hidden from everyone as he investigated this case?",
+        "answer1": "That he was never sick, but played the ruse to get Mr. Smith to confess killing his nephew Justin.",
+        "answer2": "He was never sick",
+        "correct": "ye"
+    },
+    {
+        "answer": "Watson was called to Baker Street because Mrs. Hudson believed Holmes was dying from a serious illness.",
+        "evidence": [
+            "BW_mrs_hudson(holmes_dying, 1)",
+            "OW_mrs_hudson(go_doctor_mrs_hudson_mr_holmes, 2)",
+            "BW_mrs_hudson(holmes_consent_go_doctor_watson, 2)"
+        ],
+        "question": "Why was Watson called to Baker Street?",
+        "answer1": "To help Holmes who appears to be dying ",
+        "answer2": "Holmes is dying",
+        "correct": "yes"
+    },
+    {
+        "answer": "Holmes gets upset with Watson because Watson's medical knowledge is too limited and his qualifications are mediocre.",
+        "evidence": [
+            "BW_holmes(watson_general_practitioner, 4)",
+            "BW_holmes(watson_limited_experience, 4)",
+            "BW_holmes(watson_mediocre_qualifications, 4)"
+        ],
+        "question": "Why does Homes get upset with Watson?",
+        "answer1": "because Watson touched his things",
+        "answer2": "For touching his things",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes instructs Watson to go fetch Mr. Culverton Smith.",
+        "evidence": [
+            "BW_holmes(go_fetch_mr_culverton_smith, 4)"
+        ],
+        "question": "Where does Homes instruct Watson to go?",
+        "answer1": "13 Lower Burke Street",
+        "answer2": "13 Lower Burke Street.",
+        "correct": "no"
+    },
+    {
+        "answer": "The provided predicates do not contain information about Watson being supposed to give Holmes' message to anyone.",
+        "evidence": [],
+        "question": "Who is Watson supposed to give Holmes' message to?",
+        "answer1": "Mr. Culverton Smith",
+        "answer2": "Culverton Smith",
+        "correct": "no"
+    },
+    {
+        "answer": "After delivering Holmes's message, Watson is obligated to go fetch Dr. Ainstree, who is the greatest authority on tropical disease and is currently in London.",
+        "evidence": [
+            "OW_watson(go_fetch_dr_ainstree, 4)"
+        ],
+        "question": "What is Watson supposed to do after deliviering holmes meassage?",
+        "answer1": "Get back to Baker Street before Mr Smith can get there.",
+        "answer2": "return to Baker Street",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes will not allow Watson to examine him because Holmes believes Watson lacks the specific knowledge of tropical diseases, specifically Tapanuli fever and black Formosa corruption, which Holmes is suffering from.",
+        "evidence": [
+            "BW_holmes(watson_can_do_nothing, 4)",
+            "BW_holmes(ask_what_watson_knows_tapanuli_fever, 4)",
+            "BW_holmes(ask_what_watson_knows_black_formosa_corruption, 4)",
+            "BW_watson(never_heard_of_either, 4)"
+        ],
+        "question": "Why won't Homes allow Watson to examine him?",
+        "answer1": "because he's not really sick",
+        "answer2": "to cover up his ruse of being sick",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes pretended to be dying to trick Culverton Smith into revealing his guilt in the murder of Victor Savage.",
+        "evidence": [
+            "BW_holmes(pretending_succeeded_design_might_surprise_confession, 4)",
+            "BW_holmes(pretence_carried_out_thoroughness_true_artist, 4)",
+            "BW_holmes(victor_savage_died_horribly, 4)",
+            "BW_holmes(know_smith_did_it, 4)"
+        ],
+        "question": "What was Holmes purpose in pretending he was dying?",
+        "answer1": "To trick Mr Smith into confessing",
+        "answer2": "To get Smith to confess to another crime",
+        "correct": "yes"
+    },
+    {
+        "answer": "Inspector Morton was signaled to enter the room when Mr. Culverton Smith turned up the gas.",
+        "evidence": [
+            "BW_holmes(mr_culverton_smith_good_enough_give_signal, 4)",
+            "BW_holmes(signal_turning_up_gas, 4)",
+            "TW(inspector_morton_appeared, 4)"
+        ],
+        "question": "What was the signal for Inspector Morton to come in?",
+        "answer1": "Turning the gas light all the way on",
+        "answer2": "full gaslight",
+        "correct": "yes"
+    },
+    {
+        "answer": "Smith placed the half-crowns and the rest of his money into his trouser pocket.",
+        "evidence": [
+            "BW_holmes(put_half_crowns_watch_pocket, 4)",
+            "BW_holmes(rest_money_left_trouser_pocket, 4)"
+        ],
+        "question": "What evidence did Smith put in his pocket?",
+        "answer1": "the ivory box he sent to Holmes by post",
+        "answer2": "a small ivory box with a sharp spring",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes asked Watson to return to Baker Street because he believed he was close to death and needed Watson to assist him in capturing Mr. Culverton Smith, who was responsible for his illness.",
+        "evidence": [
+            "BW_holmes(holmes_life_depends_upon_it, 4)",
+            "OW_holmes(plead_with_mr_culverton_smith, 4)",
+            "BW_holmes(know_smith_did_it, 4)"
+        ],
+        "question": "Why did Holmes ask Watson to retuen to Baker street?",
+        "answer1": "to be a witness",
+        "answer2": "to witness Smith's confession",
+        "correct": "no"
+    }
+]

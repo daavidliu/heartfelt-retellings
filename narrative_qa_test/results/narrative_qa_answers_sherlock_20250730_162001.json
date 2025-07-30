@@ -1,0 +1,313 @@
+[
+    {
+        "answer": "Watson believed Holmes was suffering from a serious, possibly fatal, tropical disease.",
+        "evidence": [
+            "Watson's initial observation of Holmes's emaciated and feverish state led him to believe he was gravely ill.",
+            "Holmes himself played up the symptoms, leading Watson to suspect a rare and dangerous malady, possibly contracted on a recent case."
+        ],
+        "question": "What did Watson believe was wrong with Holmes?",
+        "answer1": "Holmes was sick and dying",
+        "answer2": "That he was dying from an infectious disease contracted while on a case",
+        "correct": "yes"
+    },
+    {
+        "answer": "Smith sent a poisoned dagger to Holmes.",
+        "evidence": [
+            "The story centers around Sherlock Holmes feigning a fatal illness to trick a villain into revealing his crimes.",
+            "In the story, the villain Victor Saville, also known as \"Smith\", sends a poisoned dagger to Holmes as an attempt to kill him."
+        ],
+        "question": "What did Smith send to Holmes to try and infect him?",
+        "answer1": "a box",
+        "answer2": "A little ivory box",
+        "correct": "no"
+    },
+    {
+        "answer": "The signal for Inspector Morton to enter the room was when Holmes coughed twice.",
+        "evidence": [
+            "Holmes, who was lying in bed, gave a faint cough, then another, and at the second cough Inspector Morton entered.",
+            "This cough was a pre-arranged signal to let the inspector know that the time had come."
+        ],
+        "question": "What was the signal for Inspector Morton to enter the room?",
+        "answer1": "The lamp turned to full gas",
+        "answer2": "The gaslight being turned all the way up.",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes felt disgusted and ordered Watson to leave his room immediately.",
+        "evidence": [
+            "“Get out of my room, Watson! I will not have you defiling it with your presence.”",
+            "He glared at Watson with a look of loathing, his eyes burning with an uncharacteristic fury."
+        ],
+        "question": "How did Holmes feel when Watson touched the items in his room?",
+        "answer1": "He was angry",
+        "answer2": "He got mad.",
+        "correct": "yes"
+    },
+    {
+        "answer": "The story does not state that Mr. Smith killed anyone before.",
+        "evidence": [
+            "The narrative focuses on Mr. Smith's illness, his interactions with Holmes and Watson, and Holmes's deception.",
+            "There is no mention or implication of Mr. Smith having committed a murder prior to the events of this story."
+        ],
+        "question": "Who did Mr. Smith kill before?",
+        "answer1": "his nephew",
+        "answer2": "His nephew",
+        "correct": "no"
+    },
+    {
+        "answer": "Morton is a doctor who is called to examine Sherlock Holmes when Holmes is feigning a fatal illness.",
+        "evidence": [
+            "Watson calls for Dr. Percy Trevelyan, but it is Morton who arrives to examine Holmes.",
+            "Morton is presented as a capable and experienced physician, albeit one easily fooled by Holmes's performance."
+        ],
+        "question": "Who is Morton?",
+        "answer1": "He is an inspector",
+        "answer2": "He is a police inspector called in to arrest Smith",
+        "correct": "no"
+    },
+    {
+        "answer": "Watson hid behind a screen to conceal his presence and observe the proceedings without being seen by Sherlock Holmes, who was feigning illness.",
+        "evidence": [
+            "He is playing a game with Holmes, and the screen is a prop in this game.",
+            "Watson knows that Holmes is not actually ill and is putting on an act, so he is trying to remain hidden to witness the full extent of Holmes's deception and its effects."
+        ],
+        "question": "Why did Watson hide behind a screen?",
+        "answer1": "To be a witness to Smith's crimes",
+        "answer2": "To listen to Smith's and Holmes conversation",
+        "correct": "no"
+    },
+    {
+        "answer": "Watson did not starve himself to look sick; it was Holmes who feigned illness and starved himself.",
+        "evidence": [
+            "Holmes pretended to be dying from a tropical disease, a condition that caused emaciation and a fever.",
+            "Watson, concerned for his friend, visited Holmes's apartment and observed his supposedly grave condition."
+        ],
+        "question": "How long did Watson starve himself so that he would look sick?",
+        "answer1": "three days",
+        "answer2": "Watson doesn't starve himself, Holmes does",
+        "correct": "yes"
+    },
+    {
+        "answer": "Dr. Watson was called to attend to Holmes because Holmes was pretending to be gravely ill.",
+        "evidence": [
+            "Holmes feigns a serious illness, which is in fact a ruse to lure a criminal into a confession.",
+            "Watson is called to Holmes's rooms and is shocked by the apparent severity of Holmes's condition, becoming quite distressed."
+        ],
+        "question": "Why was Dr. Watson called to attend to Holmes?",
+        "answer1": "Holmes is apparently ill with an infectious disease, not having eaten or drank anything in three days.",
+        "answer2": "Because Holmes is apparently dying",
+        "correct": "yes"
+    },
+    {
+        "answer": "Holmes first instructs Watson to avoid touching him.",
+        "evidence": [
+            "“I should be very glad of your assistance, Watson, but I am alone at present, and I wish to keep so. I am the victim of a disease which I think I have fairly diagnosed, and which it is as well that no one else should be exposed to.”",
+            "“Good heavens, Holmes! What is it?” I cried, peering at him.",
+            "“You must not come nearer, Watson. I say, you must not come nearer. I have contracted a tropical disease. I am suffering from the germs of a terrible fever. I have them here,” he tapped his chest, “and I believe they are already in the circulation.”",
+            "“But you must have a doctor!” I cried.",
+            "“I have. I have had Dr. Ferrier here, and he is doing what he can. But I wish to be alone. I will have no one attend me. You can help me, Watson—you can help me in a way which you will understand when I have told you all.”"
+        ],
+        "question": "What does Holmes first instruct Dr. Watson to do in fighting this illness?",
+        "answer1": "He instructs him to wait several hours before he seeks help.",
+        "answer2": "not to come near him",
+        "correct": "yes"
+    },
+    {
+        "answer": "Dr. Watson irritates Holmes by insisting on calling a doctor to examine him.",
+        "evidence": [
+            "Holmes, in his feigned illness, is particularly aggravated by Watson's attempts to bring in other medical professionals.",
+            "Watson's genuine concern and his belief that Holmes needs professional medical attention is seen by Holmes as an interference with his own meticulously crafted charade."
+        ],
+        "question": "What does Dr. Watson do that aggravates Holmes?",
+        "answer1": "He walks around the room touching items there.",
+        "answer2": "touches his belongings",
+        "correct": "no"
+    },
+    {
+        "answer": "At 6 p.m., Holmes asks Dr. Watson to bring him some food and to be prepared to discuss the case.",
+        "evidence": [
+            "Holmes asks Watson to bring him something to eat at six o'clock.",
+            "Holmes tells Watson that he will require his assistance at that hour."
+        ],
+        "question": "What does Holmes ask Dr. Watson to do at 6 p.m.?",
+        "answer1": "To turn the gaslight to half on and then seek out Mr. Culverton Smith to come see Mr. Holmes.",
+        "answer2": "Turn the gas-light to half way",
+        "correct": "no"
+    },
+    {
+        "answer": "Dr. Watson finds Sherlock Holmes in a pitiable state, seemingly dying from a tropical disease.",
+        "evidence": [
+            "Watson arrives at 13 Lower Burke Street expecting to see his client, but instead finds Holmes.",
+            "Holmes is described as being very weak, delirious, and suffering from severe symptoms, leading Watson to believe he is gravely ill."
+        ],
+        "question": "What happens when Dr. Watson gets to 13 Lower Burke Street?",
+        "answer1": "Mr. Smith refuses to see him, so Dr. Watson forces his way in.",
+        "answer2": "He was to bring Culverton Smith to see Holmes",
+        "correct": "no"
+    },
+    {
+        "answer": "Dr. Watson overhears Mrs. Hudson informing Inspector Lestrade that Mr. Holmes is on the verge of death.",
+        "evidence": [
+            "Mrs. Hudson tells Lestrade that Holmes is dying.",
+            "Watson also overhears Mrs. Hudson saying that Holmes has not eaten anything for days."
+        ],
+        "question": "What does Dr. Watson overhear back at Holmes residence?",
+        "answer1": "That Holmes is suffering from the same ailment that inflicted Mr. Smith's nephew Justin.",
+        "answer2": "Culverton Smith confess to murdering his nephew Victor.",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes likely contracted the illness from a patient named Victor Savile, who was suffering from a similar, potentially infectious, tropical disease.",
+        "evidence": [
+            "Holmes states that he has been \"in contact with the very disease which I have been simulating.\"",
+            "He later mentions a patient named Victor Savile who had returned from the East with a fever and had been treated by Holmes."
+        ],
+        "question": "How did Holmes possibly contract this illness?",
+        "answer1": "Via a small ivory box lined with a sharp spring that Mr. Smith mailed to Holmes.",
+        "answer2": "on a case",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes intended for Mr. Smith to light the gaslight to full to make him believe that Holmes was suffering from a dangerous and contagious disease.",
+        "evidence": [
+            "Holmes's own condition, a fever and an apparent severe illness, was a carefully constructed deception.",
+            "The dim lighting was part of the ruse to make the illness appear more dreadful and to maintain the illusion of contagion."
+        ],
+        "question": "What was the intention of Holmes in having Mr. Smith lighting the gaslight to full?",
+        "answer1": "To signal Inspector Morton to move in to apprehend Mr. Smith.",
+        "answer2": "To signal inspector Morton",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes requests that Mr. Smith not touch him, specifically requesting that he avoid touching his face or hands.",
+        "evidence": [
+            "\"And now, Mr. Smith, if you will kindly step over and be seated. Pray do not come too near me.\"",
+            "\"And whatever you do, have the goodness not to touch my face or my hands.\""
+        ],
+        "question": "What else does Holmes request from Mr. Smith?",
+        "answer1": "A match and a cigarette.",
+        "answer2": "A match and a cigarette.",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes was secretly suffering from a serious illness, specifically brucellosis, contracted from handling a poisoned comfit.",
+        "evidence": [
+            "The entire premise of the story revolves around Holmes feigning a fatal illness to trick his adversary, Victor Savage.",
+            "Holmes's \"illness\" is presented as extremely debilitating and contagious, leading Watson and others to believe he is dying."
+        ],
+        "question": "What is the secret Holmes kept hidden from everyone as he investigated this case?",
+        "answer1": "That he was never sick, but played the ruse to get Mr. Smith to confess killing his nephew Justin.",
+        "answer2": "He was never sick",
+        "correct": "no"
+    },
+    {
+        "answer": "Watson was called to Baker Street because Sherlock Holmes was believed to be dying from a rare and exotic disease contracted in the East.",
+        "evidence": [
+            "Watson is summoned to Baker Street by Mrs. Hudson, who expresses grave concern for Mr. Holmes.",
+            "Upon arriving, Watson finds Holmes in a desperate state, appearing very ill and weak, with Dr. Watson believing him to be suffering from a dangerous tropical fever."
+        ],
+        "question": "Why was Watson called to Baker Street?",
+        "answer1": "To help Holmes who appears to be dying ",
+        "answer2": "Holmes is dying",
+        "correct": "yes"
+    },
+    {
+        "answer": "Holmes becomes upset with Watson because Watson, in his concern, attempts to touch Holmes, which Holmes views as a breach of their agreed-upon arrangement.",
+        "evidence": [
+            "Holmes, who was lying on his couch, feigning illness, was deeply annoyed by Watson's attempt to touch him.",
+            "Holmes had specifically instructed Watson not to approach too closely or touch him, as part of his elaborate ruse to convince Watson of his supposed deadly illness."
+        ],
+        "question": "Why does Homes get upset with Watson?",
+        "answer1": "because Watson touched his things",
+        "answer2": "For touching his things",
+        "correct": "yes"
+    },
+    {
+        "answer": "Holmes instructs Watson to go to the East End of London.",
+        "evidence": [
+            "Holmes tells Watson, \"I want you to go down to the East End, Watson.\"",
+            "The specific location mentioned by Holmes is the East End."
+        ],
+        "question": "Where does Homes instruct Watson to go?",
+        "answer1": "13 Lower Burke Street",
+        "answer2": "13 Lower Burke Street.",
+        "correct": "no"
+    },
+    {
+        "answer": "Watson is supposed to give Holmes' message to Mrs. Hudson.",
+        "evidence": [
+            "Holmes, in his feigned illness, instructs Watson to go and fetch Mrs. Hudson, implying he has a message or instruction for her.",
+            "The narrative often positions Mrs. Hudson as the intermediary for Holmes' requests within 221B Baker Street."
+        ],
+        "question": "Who is Watson supposed to give Holmes' message to?",
+        "answer1": "Mr. Culverton Smith",
+        "answer2": "Culverton Smith",
+        "correct": "no"
+    },
+    {
+        "answer": "Watson is supposed to wait in the hall outside Holmes's room until further notice.",
+        "evidence": [
+            "Watson is instructed to wait in the hall outside Holmes's door and not to enter under any circumstances.",
+            "Holmes states he will send for Watson when he requires him."
+        ],
+        "question": "What is Watson supposed to do after deliviering holmes meassage?",
+        "answer1": "Get back to Baker Street before Mr Smith can get there.",
+        "answer2": "return to Baker Street",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes wants to prevent Watson from discovering he is faking his illness, as Watson would likely see through the deception.",
+        "evidence": [
+            "Holmes is pretending to be deathly ill with a rare tropical disease to trick the villain into confessing.",
+            "Watson's medical expertise would allow him to easily diagnose that Holmes is not actually sick, thereby ruining the plan."
+        ],
+        "question": "Why won't Homes allow Watson to examine him?",
+        "answer1": "because he's not really sick",
+        "answer2": "to cover up his ruse of being sick",
+        "correct": "yes"
+    },
+    {
+        "answer": "Holmes pretended he was dying to trick a villain named Victor Saville into revealing his guilt.",
+        "evidence": [
+            "Holmes, suffering from a serious illness, hopes to lure Victor Saville, who had stolen an idol and murdered a man named Victor, into his sickroom.",
+            "Holmes's \"illness\" is a ruse designed to exploit Saville's fear and guilt, hoping he will confess or make a mistake that incriminates him."
+        ],
+        "question": "What was Holmes purpose in pretending he was dying?",
+        "answer1": "To trick Mr Smith into confessing",
+        "answer2": "To get Smith to confess to another crime",
+        "correct": "no"
+    },
+    {
+        "answer": "The signal for Inspector Morton to come in was when Holmes, pretending to be delirious, would throw a book across the room.",
+        "evidence": [
+            "Holmes instructed Watson to tell Morton to come in when he threw the book across the room.",
+            "Holmes planned to use the throwing of a book as a signal, indicating his supposed worsening condition and the opportune moment for Morton to enter."
+        ],
+        "question": "What was the signal for Inspector Morton to come in?",
+        "answer1": "Turning the gas light all the way on",
+        "answer2": "full gaslight",
+        "correct": "no"
+    },
+    {
+        "answer": "Smith pocketed a small, dark object that Watson suspected was a lodestone.",
+        "evidence": [
+            "Watson, in examining the case, notices that Smith has a very peculiar habit of absent-mindedly putting things into his pocket, and Watson has a distinct memory of Smith, a few days before this, having taken a small, dark object from the table and put it into his pocket, with the remark that it was a lodestone.",
+            "I had noticed him fiddling with something in his pocket when he was last here, and I have a suspicion that it was the lodestone which I have seen him use for the purpose of magnetising his own needle."
+        ],
+        "question": "What evidence did Smith put in his pocket?",
+        "answer1": "the ivory box he sent to Holmes by post",
+        "answer2": "a small ivory box with a sharp spring",
+        "correct": "no"
+    },
+    {
+        "answer": "Holmes asked Watson to return to Baker Street because he wanted to ensure Watson did not contract the deadly illness that he was feigning.",
+        "evidence": [
+            "Holmes was worried about Watson catching the disease, which he claimed was highly contagious and fatal.",
+            "He deliberately kept Watson away from his sickroom, instructing him to go back to Baker Street and avoid any contact with him until further notice."
+        ],
+        "question": "Why did Holmes ask Watson to retuen to Baker street?",
+        "answer1": "to be a witness",
+        "answer2": "to witness Smith's confession",
+        "correct": "no"
+    }
+]

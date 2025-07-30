@@ -1,0 +1,257 @@
+[
+    {
+        "answer": "Watson believed Holmes was suffering from a serious and potentially fatal illness, likely contracted in the East.",
+        "evidence": [
+            "Watson's initial reaction was one of extreme concern, seeing Holmes's emaciated state and the tell-tale signs of a severe fever.",
+            "He administered medicine and cared for Holmes as he would any gravely ill patient, reflecting his belief in the seriousness of the ailment."
+        ],
+        "answer1": "Holmes was sick and dying",
+        "answer2": "That he was dying from an infectious disease contracted while on a case"
+    },
+    {
+        "answer": "Smith sent a small box containing a poisoned dart or needle to try and infect Holmes.",
+        "evidence": [
+            "Smith, under the pretense of treating Holmes, jabbed him with a poisoned dart.",
+            "The dart, likely concealed in a small object like a box or a ring, was the vector for the poison."
+        ],
+        "answer1": "a box",
+        "answer2": "A little ivory box"
+    },
+    {
+        "answer": "The signal for Inspector Morton to enter the room was the ringing of a bell.",
+        "evidence": [
+            "The story describes Holmes, in his weakened state, instructing Mrs. Hudson to ring the bell when Inspector Morton arrived.",
+            "When Morton finally appeared, it was in response to the bell being rung."
+        ],
+        "answer1": "The lamp turned to full gas",
+        "answer2": "The gaslight being turned all the way up."
+    },
+    {
+        "answer": "Holmes felt annoyed and exasperated when Watson touched the items in his room.",
+        "evidence": [
+            "“There, there, my dear fellow,” said Holmes, \"pray do not touch anything. Let me have a little more elbow-room. That is where I keep my various cases of samples, and I should be very sorry to have them mixed up.\"",
+            "His voice was weak and shaky, but his eyes gleamed with something that was not far removed from a grim amusement."
+        ],
+        "answer1": "He was angry",
+        "answer2": "He got mad."
+    },
+    {
+        "answer": "The story does not mention Mr. Smith killing anyone before.",
+        "evidence": [
+            "The focus of 'The Adventure of the Dying Detective' is on Sherlock Holmes feigning illness to trick a criminal named Victor Saville, not on a character named Mr. Smith.",
+            "There is no mention of a Mr. Smith or any past homicides attributed to him within the narrative of this particular Sherlock Holmes story."
+        ],
+        "answer1": "his nephew",
+        "answer2": "His nephew"
+    },
+    {
+        "answer": "Morton is a doctor who is called to examine Sherlock Holmes, who is pretending to be very ill.",
+        "evidence": [
+            "Dr. Watson refers to Morton as the person he will call to examine Holmes.",
+            "Morton's examination of Holmes is a key part of Holmes's plan to deceive Victor Savilek."
+        ],
+        "answer1": "He is an inspector",
+        "answer2": "He is a police inspector called in to arrest Smith"
+    },
+    {
+        "answer": "Watson hid behind a screen to observe Holmes's condition without him being aware.",
+        "evidence": [
+            "Watson's motivation for hiding was to witness Holmes's supposed decline and the effect of the illness on him.",
+            "He was concerned about Holmes's well-being and wanted to see how he was faring."
+        ],
+        "answer1": "To be a witness to Smith's crimes",
+        "answer2": "To listen to Smith's and Holmes conversation"
+    },
+    {
+        "answer": "Watson starved himself for ten days to appear ill.",
+        "evidence": [
+            "Watson himself states in the story, 'I had abstained from food for ten days.'",
+            "This self-starvation was a deliberate attempt by Watson to make himself appear genuinely unwell to Mr. Holmes."
+        ],
+        "answer1": "three days",
+        "answer2": "Watson doesn't starve himself, Holmes does"
+    },
+    {
+        "answer": "Dr. Watson was called to attend to Holmes because Holmes was feigning a grave illness, specifically a feverish tropical disease, to trick a villain.",
+        "evidence": [
+            "Holmes intentionally exposed himself to a rare disease (or pretended to) in order to lure a villain named Victor Savelli into a trap.",
+            "Watson believed Holmes was truly dying and was therefore called to attend to him out of concern and professional duty."
+        ],
+        "answer1": "Holmes is apparently ill with an infectious disease, not having eaten or drank anything in three days.",
+        "answer2": "Because Holmes is apparently dying"
+    },
+    {
+        "answer": "Holmes first instructs Dr. Watson to avoid coming into physical contact with him.",
+        "evidence": [
+            "\"I am dead, Watson, or as good as dead.\"",
+            "\"You must not go near me.\""
+        ],
+        "answer1": "He instructs him to wait several hours before he seeks help.",
+        "answer2": "not to come near him"
+    },
+    {
+        "answer": "Dr. Watson's insistence on treating Holmes with conventional medical remedies irritates Holmes.",
+        "evidence": [
+            "Holmes, in his feigned illness, finds Watson's solicitous care and attempts to apply traditional medical treatments to be irksome.",
+            "Watson brings him a medical bag, which Holmes dismisses, indicating a disdain for conventional medicine in this context."
+        ],
+        "answer1": "He walks around the room touching items there.",
+        "answer2": "touches his belongings"
+    },
+    {
+        "answer": "Holmes asks Dr. Watson to return at 6 p.m. to administer a dose of medicine.",
+        "evidence": [
+            "Holmes told Watson that he would be there at six o'clock.",
+            "He asked Watson to return at that hour to give him a dose of his medicine."
+        ],
+        "answer1": "To turn the gaslight to half on and then seek out Mr. Culverton Smith to come see Mr. Holmes.",
+        "answer2": "Turn the gas-light to half way"
+    },
+    {
+        "answer": "When Dr. Watson arrives at 13 Lower Burke Street, he is met by a distressed Mrs. Hudson who informs him that Sherlock Holmes is gravely ill with a tropical disease.",
+        "evidence": [
+            "Mrs. Hudson, the landlady, opens the door, and Watson immediately sees her distressed state.",
+            "Mrs. Hudson tells Watson that Holmes is suffering from a terrible illness, a tropical disease called \"Darkena\"."
+        ],
+        "answer1": "Mr. Smith refuses to see him, so Dr. Watson forces his way in.",
+        "answer2": "He was to bring Culverton Smith to see Holmes"
+    },
+    {
+        "answer": "Dr. Watson overhears Holmes telling Mrs. Hudson that he is feeling perfectly well, despite his feigned illness.",
+        "evidence": [
+            "He was still complaining of his illness when Mrs. Hudson entered the room with his dinner.",
+            "He complained that he was too weak to eat and then told Mrs. Hudson that he would not live past morning.",
+            "After she left, Holmes admitted that he was feeling perfectly well and that he had been putting on an act.",
+            "He told Watson that he had done so to make Victor Savnikov believe that he was dying."
+        ],
+        "answer1": "That Holmes is suffering from the same ailment that inflicted Mr. Smith's nephew Justin.",
+        "answer2": "Culverton Smith confess to murdering his nephew Victor."
+    },
+    {
+        "answer": "Holmes likely contracted the illness through contact with the poisoned dagger belonging to the East Indian thug, Culverton Shaw.",
+        "evidence": [
+            "Holmes deliberately pricked his finger with a poisoned stylus, which he claimed he had obtained from Culverton Shaw.",
+            "He stated that Shaw had brought the stylus back from the East, and it had been used on a thug in that region, implying a direct connection to the source of the poison."
+        ],
+        "answer1": "Via a small ivory box lined with a sharp spring that Mr. Smith mailed to Holmes.",
+        "answer2": "on a case"
+    },
+    {
+        "answer": "Holmes intended for Mr. Smith to light the gaslight to its fullest extent in order to examine the victim's symptoms more closely and to create a more dramatic setting for his deduction.",
+        "evidence": [
+            "Holmes's keen observation skills would require the best possible light to accurately assess the signs of the illness he suspected.",
+            "The increased illumination likely served to heighten the tension and atmosphere of the room, contributing to the staged nature of the 'dying' detective."
+        ],
+        "answer1": "To signal Inspector Morton to move in to apprehend Mr. Smith.",
+        "answer2": "To signal inspector Morton"
+    },
+    {
+        "answer": "Holmes also requests a glass of water from Mr. Smith.",
+        "evidence": [
+            "Holmes tells Smith to pour him a glass of water, which he claims will help with his throat.",
+            "When Smith returns with the water, Holmes immediately dismisses him with a curt \"That will do.\""
+        ],
+        "answer1": "A match and a cigarette.",
+        "answer2": "A match and a cigarette."
+    },
+    {
+        "answer": "Holmes kept hidden the fact that he was not actually ill.",
+        "evidence": [
+            "Sherlock Holmes feigned a serious illness, a tropical disease called 'black spittle'.",
+            "He did this to trick a man named Victor Savage into confessing to a crime by coming to see him when he believed Holmes was dying."
+        ],
+        "answer1": "That he was never sick, but played the ruse to get Mr. Smith to confess killing his nephew Justin.",
+        "answer2": "He was never sick"
+    },
+    {
+        "answer": "Watson was called to Baker Street because Sherlock Holmes was gravely ill.",
+        "evidence": [
+            "Holmes was suffering from a dangerous tropical disease.",
+            "Watson believed Holmes was dying and rushed to his side."
+        ],
+        "answer1": "To help Holmes who appears to be dying ",
+        "answer2": "Holmes is dying"
+    },
+    {
+        "answer": "Holmes becomes upset with Watson because Watson is genuinely worried about Holmes's well-being and attempts to treat him for his supposed illness.",
+        "evidence": [
+            "Watson, ever the loyal friend and medical man, is deeply distressed by Holmes's apparent state of decline and attempts to diagnose and treat him.",
+            "Holmes, who is feigning illness, finds Watson's earnest concern and medical efforts to be an obstacle to his plan, leading to his irritation."
+        ],
+        "answer1": "because Watson touched his things",
+        "answer2": "For touching his things"
+    },
+    {
+        "answer": "Holmes instructs Watson to go to the East End of London.",
+        "evidence": [
+            "Holmes, lying in his bed in a darkened room, instructs Watson to go to the East End.",
+            "He tells Watson he must go to the East End and bring back the medicine from a local apothecary.",
+            "Holmes tells Watson to tell the apothecary that he is acting on behalf of Victor Savelli."
+        ],
+        "answer1": "13 Lower Burke Street",
+        "answer2": "13 Lower Burke Street."
+    },
+    {
+        "answer": "Watson is supposed to give Holmes' message to Mrs. Hudson.",
+        "evidence": [
+            "The story mentions that Holmes, feigning illness, instructs Watson to tell Mrs. Hudson that he is not to be disturbed and that no one is to enter his room.",
+            "Watson's actions in the story involve relaying these instructions, specifically to Mrs. Hudson."
+        ],
+        "answer1": "Mr. Culverton Smith",
+        "answer2": "Culverton Smith"
+    },
+    {
+        "answer": "Watson is supposed to wait for Holmes to send for him.",
+        "evidence": [
+            "Holmes instructed Watson to return to his house and await his summons.",
+            "The context implies that Watson's role was to act as a messenger and then remain available for further instructions."
+        ],
+        "answer1": "Get back to Baker Street before Mr Smith can get there.",
+        "answer2": "return to Baker Street"
+    },
+    {
+        "answer": "Holmes will not allow Watson to examine him because he is faking his illness and doesn't want Watson to discover his deception.",
+        "evidence": [
+            "Holmes is deliberately feigning his illness to lure his patient, Victor Saville, into a trap.",
+            "He is afraid that Watson's medical expertise would reveal the elaborate charade."
+        ],
+        "answer1": "because he's not really sick",
+        "answer2": "to cover up his ruse of being sick"
+    },
+    {
+        "answer": "Holmes pretended to be dying to trick Victor Savelli into confessing his crime.",
+        "evidence": [
+            "Holmes, in his weakened state, orchestrates a scene where he appears to be suffering from a dangerous tropical disease.",
+            "He manipulates events so that Savelli believes he is near death and can be easily influenced, leading Savelli to reveal his guilt in administering the poison."
+        ],
+        "answer1": "To trick Mr Smith into confessing",
+        "answer2": "To get Smith to confess to another crime"
+    },
+    {
+        "answer": "The signal for Inspector Morton to come in was when Holmes put his handkerchief to his lips.",
+        "evidence": [
+            "Holmes, looking ghastly, puts his handkerchief to his lips.",
+            "When Holmes puts his handkerchief to his lips, it is a signal for Inspector Morton to enter the room."
+        ],
+        "answer1": "Turning the gas light all the way on",
+        "answer2": "full gaslight"
+    },
+    {
+        "answer": "Smith put a small packet containing a greenish powder into his pocket.",
+        "evidence": [
+            "He thrust his hand into his pocket and pulled out a small packet.",
+            "Inside the packet was a quantity of greenish powder."
+        ],
+        "answer1": "the ivory box he sent to Holmes by post",
+        "answer2": "a small ivory box with a sharp spring"
+    },
+    {
+        "answer": "Holmes asked Watson to return to Baker Street because he was feigning a fatal illness and did not want Watson to witness his agonizing state, as it would have been too distressing for him.",
+        "evidence": [
+            "Holmes wished to spare Watson the terrible ordeal of witnessing his simulated suffering and death.",
+            "He knew that Watson's deep affection for him would make it unbearable for his friend to see him in such a supposedly wretched condition."
+        ],
+        "answer1": "to be a witness",
+        "answer2": "to witness Smith's confession"
+    }
+]
