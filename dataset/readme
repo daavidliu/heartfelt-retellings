@@ -1,0 +1,20 @@
+Statistics for word count in 'story_formatted':
+  Average (Mean) words: 155.49
+  Median words: 158.00
+  Maximum words: 456
+  Minimum words: 1
+  Standard Deviation of words: 116.27
+
+Counts for each type in 'Empathizable':
+- 4.0: 867 entries
+- 5.0: 492 entries
+- 3.0: 107 entries
+- 2.0: 56 entries
+- 1.0: 15 entries
+
+Counts for each type in 'Well-Written':
+- 4.0: 634 entries
+- 5.0: 254 entries
+- 3.0: 147 entries
+- 2.0: 60 entries
+- 1.0: 10 entries
